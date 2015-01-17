@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Picard Song</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="playPauseButtonDesc">PLAY/PAUSE</string>
+    <string name="restartButtonDesc">RePlay</string>
+    <string name="picardDesc">Captain Jean-Luc Picard</string>
+    <string name="largeTitle">The Picard Song v.2.0</string>
+    <string name="progress">Progress Bar...duh</string>
+    <string name="played">Play count: </string>
+
+</resources>
